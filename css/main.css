@@ -24,3 +24,15 @@
   color: white;
   height: 100%;
 }
+
+#design {
+  display: none;
+}
+
+#development {
+  display: none;
+}
+
+#product {
+  display: none;
+}
