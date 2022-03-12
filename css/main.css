@@ -1,1 +1,9 @@
-.
+
+.container1 {
+  height: 100Vh;
+  background-image: url('../backgrounds/h_img.jpg');
+  background-size: cover;
+}
+.container1_img {
+  align-items: center;
+}
