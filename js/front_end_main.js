@@ -13,5 +13,12 @@ $(document).ready(function() {
     $("#producttext").toggle();
   });
 
+  $("#hover").hover(function() {
+    $(this).animate({opacity:'1'});
+  },
+  function(){
+    $(this).animate({opacity:'0'});
+  });
+
 
 });

@@ -2,6 +2,9 @@ body {
   width: 100%;
 }
 
+img {
+  object-fit: contain;
+}
 .container1 {
   background-image: url('../backgrounds/h_img.jpg');
   background-size: cover;
@@ -14,15 +17,7 @@ body {
   color: white;
 }
 
-#designtext {
-  display: none;
-}
-
-#developmenttext {
-  display: none;
-}
-
-#producttext {
+.text {
   display: none;
 }
 
@@ -32,4 +27,14 @@ body {
 }
 .contactus {
   background-image: url('../backgrounds/c_image.jpg');
+  color: white;
+}
+
+#hover {
+  opacity: 0;
+  background-color: rgba(255, 255, 255, 0.623);
+  top:20%;
+  bottom:20%;
+  left:20%;
+  right:20%;
 }
