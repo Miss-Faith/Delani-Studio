@@ -15,16 +15,15 @@
   height: 100%;
 }
 
-#design {
+#designtext {
   display: none;
 }
 
-#development {
+#developmenttext {
   display: none;
-  padding-left: 10%;
 }
 
-#product {
+#producttext {
   display: none;
 }
 
