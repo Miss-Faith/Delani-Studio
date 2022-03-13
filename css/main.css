@@ -8,17 +8,6 @@
   background-size: cover;
 }
 
-.container_small {
-  height: 500%;
-  align-items: center;
-}
-
-.container_big {
-  height: 80Vh;
-  height: auto;
-  align-items: center;
-}
-
 .services {
   background-image: url('../backgrounds/s_image.jpg');
   background-size: cover;
@@ -38,8 +27,7 @@
   display: none;
 }
 
-.portfolio_image {
-  margin: 2px;
-  border: 2px;
-  padding: 2px;
+.row {
+  padding-left: 10%;
+  padding-right: 10%; 
 }
