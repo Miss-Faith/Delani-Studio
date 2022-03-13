@@ -9,12 +9,12 @@
 }
 
 .container_small {
-  height: 40%;
+  height: 500%;
   align-items: center;
 }
 
 .container_big {
-  height: 60%;
+  height: 80Vh;
   height: auto;
   align-items: center;
 }
