@@ -21,6 +21,7 @@
 
 #development {
   display: none;
+  padding-left: 10%;
 }
 
 #product {
@@ -29,5 +30,8 @@
 
 .row {
   padding-left: 10%;
-  padding-right: 10%; 
+  padding-right: 10%;
+}
+.contactus {
+  background-image: url('../backgrounds/c_image.jpg');
 }
