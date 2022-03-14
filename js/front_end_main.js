@@ -13,7 +13,7 @@ $(document).ready(function() {
     $("#producttext").toggle();
   });
 
-  $("#hover").hover(function() {
+  $(".hover").hover(function() {
     $(this).animate({opacity:'1'});
   },
   function(){
