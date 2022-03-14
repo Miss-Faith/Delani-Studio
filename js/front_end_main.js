@@ -20,5 +20,9 @@ $(document).ready(function() {
     $(this).animate({opacity:'0'});
   });
 
+  $('#submit').click(function() {
+    var name = $("#name").val();
+    alert("Hi "+ name + " we have received your message. Thank you for reaching out to us. We'll get back to you soonest.")
+  });
 
 });

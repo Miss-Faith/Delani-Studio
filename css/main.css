@@ -5,7 +5,7 @@ body {
   width: 100%;
 }
 p {
-  font-size: 1vw;
+  font-size: 1.1vw;
 }
 
 .container1 {
@@ -33,12 +33,12 @@ p {
 }
 
 .hover {
-  opacity: 0.9;
+  opacity: 0;
   background-color: rgba(255, 255, 255, 0.6);
   position: relative;
-  top: -1%;
-  left: -1%;
-  margin: 2px;
-  border: 2px;
+  top:auto;
+  left: auto;
+  margin: 0.1px;
+  border: 0.1px;
   padding: 20px;
 }
