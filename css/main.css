@@ -42,3 +42,8 @@ p {
   border: 0.1px;
   padding: 20px;
 }
+
+#mc_embed_signup {
+  background-image: url('../backgrounds/c_image.jpg');
+  clear:left;
+}
