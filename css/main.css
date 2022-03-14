@@ -4,6 +4,7 @@
 body {
   width: 100%;
   font-family: 'Fredoka', sans-serif;
+  font-weight: 300;
 }
 p {
   font-size: 1.1vw;
@@ -47,4 +48,5 @@ p {
 #mc_embed_signup {
   background-image: url('../backgrounds/c_image.jpg');
   clear:left;
+  color: white;
 }
