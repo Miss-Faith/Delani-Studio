@@ -1,5 +1,11 @@
+.container-fluid {
+  height: 100vh;
+}
 body {
   width: 100%;
+}
+p {
+  font-size: 1vw;
 }
 
 .container1 {
