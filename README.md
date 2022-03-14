@@ -17,6 +17,7 @@ The project does not require any installations. To view the site:
 * Bootstrap - Used to design and customize a responsive site
 * JavaScript - Used to develop the interactive application of the site and perform internal calculations
 * jquery - Used to traverse and manipulate HTML document
+* Mailchimp API - Used to collect contact information and messages
 ## Development
 ### Want to contribute? Great!
 To fix a bug or enhance an existing module, follow these steps:
